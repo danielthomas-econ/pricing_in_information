@@ -1,0 +1,4 @@
+# ignore all parquet and db files
+*.parquet
+*.db
+__pycache__/
